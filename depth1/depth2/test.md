@@ -1,4 +1,5 @@
 # depth2 header
 
 - tiger!!
-![tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+
+![tiger](![tiger](../../images/tiger.jpg)
