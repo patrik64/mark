@@ -15,3 +15,5 @@ html picture+img tag:
 external tiger ```https://upload.wikimedia.org/wikipedia/commons/8/81/2012_Suedchinesischer_Tiger.JPG```:
 
 ![Tiger](https://upload.wikimedia.org/wikipedia/commons/8/81/2012_Suedchinesischer_Tiger.JPG)
+
+![this screenshot](https://github.com/rachelg25/Ketryx-Demo/blob/main/shared/images/Cute_dog.jpg?raw=true)
