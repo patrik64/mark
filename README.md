@@ -1,4 +1,3 @@
-# README header
 
 here below is a link to a photo on wikipedia
 
