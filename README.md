@@ -1,14 +1,16 @@
 # README heade
 
 
-- tiger!!
+- web tiger!!
+![Tiger](https://upload.wikimedia.org/wikipedia/commons/8/81/2012_Suedchinesischer_Tiger.JPG)
 
+- local image tiger!!
 ![tiger](./images/tiger.jpg)
 
-html img tag:
+- html img tiger:
 <img src="./images/tiger.jpg" alt="TIGER">
 
-html picture+img tag:
+- html picture+img tiger:
 <picture>
   <img src="./images/tiger.jpg" alt="TIGER">
 </picture>
