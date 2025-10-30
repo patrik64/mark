@@ -1,11 +1,8 @@
 
 - tiger!!
 
-5 tiger
-![tiger](![tiger](../../../../../images/tiger.jpg)
 
-6 tiger
-![tiger](![tiger](../../../../../../images/tiger.jpg)
+![tiger](![tiger](../../../../../images/tiger.jpg)
 
 ## Mapping between two things
 
